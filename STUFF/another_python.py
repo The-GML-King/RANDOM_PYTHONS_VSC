@@ -1,4 +1,6 @@
-# We got a simple quiz from the start =)
+'''
+You Can See What I Don't
+'''
 puntaje_t = 5.0
 numero_preguntas = 10
 valor_pregunta = puntaje_t / numero_preguntas
@@ -8,9 +10,10 @@ p_incorrectas = 0
 
 nombre = input("\nIngresa Tu nombre antes del quiz: ")
 
-if nombre != "":
+while nombre != "":
     print("\nBienvenido al quiz. Van a ser", numero_preguntas, "preguntas, y cada una vale", valor_pregunta, "puntos.")
     print("NOTA: Escribe la opción que creas correcta EN MAYÚSCULA\n")
+    break
 
 pregunta = 1
 
