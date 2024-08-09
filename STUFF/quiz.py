@@ -1,5 +1,8 @@
 '''
 You Can See What I Don't
+You Can Change as you wish
+I'm Not Nintendo After All (>-<)
+Att: KARLX
 '''
 puntaje_t = 5.0
 numero_preguntas = 10
