@@ -1,3 +1,4 @@
+# We got a simple quiz from the start =)
 puntaje_t = 5.0
 numero_preguntas = 10
 valor_pregunta = puntaje_t / numero_preguntas
